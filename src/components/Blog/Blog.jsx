@@ -6,9 +6,9 @@ const Blog = ({ blog, handleAddToBookmark }) => {
     blog;
 
   return (
-    <div className="mb-20">
+    <div className="mb-20 ">
       <img
-        className="w-full my-12"
+        className="w-[80%] my-12"
         src={cover}
         alt={`Cover picture of the title ${title}`}
       />
@@ -29,7 +29,7 @@ const Blog = ({ blog, handleAddToBookmark }) => {
         <div className="flex">
           <span className="text-2xl text-gray-400">{readingTime} min read</span>
           <button
-            onClick={handleAddToBookmark}
+            onClick={() => handleAddToBookmark(blog)}
             className="ml-2 text-2xl text-yellow-400"
           >
             <FaBookmark></FaBookmark>
@@ -42,5 +42,6 @@ const Blog = ({ blog, handleAddToBookmark }) => {
 
 Blog.PropTypes = {
   blog: PropTypes.object.isRequired,
+  handleAddToBookmark: PropTypes.func,
 };
 export default Blog;
