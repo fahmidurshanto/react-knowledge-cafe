@@ -4,10 +4,10 @@
     "cover": "https://i.postimg.cc/g2rXcpNY/21743720-6481362.jpg",
     "title": "Exploring the Mysteries of Quantum Mechanics",
     "author": "Dr. Samantha Smith",
-    "author-img": "https://i.postimg.cc/qRQfQdQY/brooke-cagle-kv-KSL7-B6e-To-unsplash.jpg",
+    "authorImg": "https://i.postimg.cc/qRQfQdQY/brooke-cagle-kv-KSL7-B6e-To-unsplash.jpg",
     
-    "posted-date": "2023-10-15",
-    "reading-time": 12,
+    "postedDate": "2023-10-15",
+    "readingTime": 12,
     "hashtags": "#QuantumPhysics #Science #Exploration"
   },
   {
@@ -15,9 +15,9 @@
     "cover": "https://i.postimg.cc/wBJrvRPg/arnel-hasanovic-MNd-Rka1o0-Q-unsplash.jpg",
     "title": "The Art of Culinary Delights",
     "author": "Chef Robert Johnson",
-    "author-img": "https://i.postimg.cc/3JkMjVGS/gift-habeshaw-w1-Xu-Hvzc-Wo-I-unsplash.jpg",
-    "posted-date": "2023-09-28",
-    "reading-time": 8,
+    "authorImg": "https://i.postimg.cc/3JkMjVGS/gift-habeshaw-w1-Xu-Hvzc-Wo-I-unsplash.jpg",
+    "postedDate": "2023-09-28",
+    "readingTime": 8,
     "hashtags": "#CulinaryArt #Foodie #Recipes"
   },
   {
@@ -25,9 +25,9 @@
     "cover": "https://i.postimg.cc/6qnj68pF/karsten-winegeart-j-XGd-Ewe-Ht-E-unsplash.jpg",
     "title": "A Journey Through Ancient History",
     "author": "Professor Emily Davis",
-    "author-img": "https://i.postimg.cc/mrcM4QP2/jodie-cook-S2r-P7-CQP3-WU-unsplash.jpg",
-    "posted-date": "2023-08-10",
-    "reading-time": 15,
+    "authorImg": "https://i.postimg.cc/mrcM4QP2/jodie-cook-S2r-P7-CQP3-WU-unsplash.jpg",
+    "postedDate": "2023-08-10",
+    "readingTime": 15,
     "hashtags": "#History #Archaeology #AncientCivilizations"
   },
   {
@@ -35,9 +35,9 @@
     "cover": "https://i.postimg.cc/hvJV06mn/carl-heyerdahl-KE0n-C8-58-MQ-unsplash.jpg",
     "title": "Mastering Productivity: Tips for Success",
     "author": "John Smith",
-    "author-img": "https://i.postimg.cc/3xCd7kwD/portrait-smart-professional-african-american-man-standing-with-hands-crossed-chest-confident-pose.jpg",
-    "posted-date": "2023-07-05",
-    "reading-time": 6,
+    "authorImg": "https://i.postimg.cc/3xCd7kwD/portrait-smart-professional-african-american-man-standing-with-hands-crossed-chest-confident-pose.jpg",
+    "postedDate": "2023-07-05",
+    "readingTime": 6,
     "hashtags": "#Productivity #Success #TimeManagement"
   },
   {
@@ -45,9 +45,9 @@
     "cover": "https://i.postimg.cc/2SZyxvSP/annie-spratt-th-I-CZAB0-MY-unsplash.jpg",
     "title": "The World of Fantasy Literature",
     "author": "Author Jane Doe",
-    "author-img": "https://i.postimg.cc/8kKQ6N7f/cesar-rincon-XHVp-Wcr5gr-Q-unsplash.jpg",
-    "posted-date": "2023-06-12",
-    "reading-time": 10,
+    "authorImg": "https://i.postimg.cc/8kKQ6N7f/cesar-rincon-XHVp-Wcr5gr-Q-unsplash.jpg",
+    "postedDate": "2023-06-12",
+    "readingTime": 10,
     "hashtags": "#FantasyBooks #Literature #Imagination"
   }
 ]
